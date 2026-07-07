@@ -10,7 +10,3 @@
   <a href="https://www.tiktok.com/@labi.dev">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge\\\\\\\\\\\\\\\&logo=tiktok\\\\\\\\\\\\\\\&logoColor=white"/>
   </a>
-  <a href="https://discord.gg/hseev4UzYZ">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge\\\\\\\\\\\\\\\&logo=discord\\\\\\\\\\\\\\\&logoColor=white"/>
-  </a>
-</p>
